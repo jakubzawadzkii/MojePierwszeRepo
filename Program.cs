@@ -206,6 +206,7 @@ class Program
         int width = board.GetLength(1);
 
 
+        Console.WriteLine("Witamy w grze saper! współrzedne podaj po spacji");
 
         Console.WriteLine("Plansza Saper:");
 
